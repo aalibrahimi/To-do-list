@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.*
+.cache
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variable files
+*.env
+*.env.* 
+.envrc
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Django specific
+*.sqlite3
+
+# PyInstaller
+*.manifest
+*.spec
+
+# IDE specific
+.idea/
+*.iml
+*.sublime-workspace
+
+# macOS files
+.DS_Store
